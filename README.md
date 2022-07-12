@@ -12,5 +12,23 @@ vai devolver essa lista em ordem alfabética quando o usuário inserir a palavra
 
 ### Dependências
 
+A dependência de desenvolvimento utilizada para leitura do Input do usuário foi a ReadlineSync.
+
+``` javascript
+"dependencies": { 
+    "readline-sync": "^1.4.10" 
+   }
 ```
-"dependencies": 
+Que pode ser inicializada pelo terminal após o Clone do repositório com o seguinte comando:
+
+```
+npm i readline-sync 
+```
+
+### Inicialização 
+
+A Inicialização da aplicação pode ser feita através do terminal com o comando:
+
+```
+node app.js
+```
