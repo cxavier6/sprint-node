@@ -7,5 +7,10 @@ vai devolver essa lista em ordem alfabética quando o usuário inserir a palavra
 
 ### Tecnologias
 - [x] Javascript
-- [x] Node.js
+- [x] Node.js 16.x LTS
 - [x] readlineSync
+
+### Dependências
+
+```
+"dependencies": 
